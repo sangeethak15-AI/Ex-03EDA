@@ -63,3 +63,6 @@ sns.heatmap(df.corr(),annot=True)
 ![op7](https://user-images.githubusercontent.com/93992063/162118334-aa1bbe1a-d030-46e9-a9a8-98c1bbbd6404.png)
 ![op8](https://user-images.githubusercontent.com/93992063/162118337-c5995abb-9693-456b-b462-4f232e0d1805.png)
 ![op9](https://user-images.githubusercontent.com/93992063/162118339-f82adb67-c081-423e-b4d2-657ba510f301.png)
+
+# Result:
+Thus the data of the dataset is analyzed using Exploratory data analysis.
